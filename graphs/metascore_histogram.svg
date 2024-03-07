@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 650 735" style="enable-background:new 0 0 650 735;" xml:space="preserve">
+	 viewBox="0 0 650 660" style="enable-background:new 0 0 650 660;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#EBEBEB;stroke-width:0.53;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#EBEBEB;stroke-width:1.07;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st2{fill:#FFCF72;}
 	.st3{font-family:'Helvetica';}
-	.st4{font-size:12px;}
+	.st4{font-size:13.5263px;}
 </style>
-<line class="st0" x1="72.1" y1="536.5" x2="596.7" y2="536.5"/>
-<line class="st0" x1="72.1" y1="399.1" x2="596.7" y2="399.1"/>
-<line class="st0" x1="72.1" y1="261.8" x2="596.7" y2="261.8"/>
-<line class="st0" x1="72.1" y1="124.4" x2="596.7" y2="124.4"/>
-<line class="st0" x1="121.1" y1="629.4" x2="121.1" y2="96.2"/>
-<line class="st0" x1="246.5" y1="629.4" x2="246.5" y2="96.2"/>
-<line class="st0" x1="372" y1="629.4" x2="372" y2="96.2"/>
-<line class="st0" x1="497.5" y1="629.4" x2="497.5" y2="96.2"/>
-<line class="st1" x1="72.1" y1="605.2" x2="596.7" y2="605.2"/>
-<line class="st1" x1="72.1" y1="467.8" x2="596.7" y2="467.8"/>
-<line class="st1" x1="72.1" y1="330.5" x2="596.7" y2="330.5"/>
-<line class="st1" x1="72.1" y1="193.1" x2="596.7" y2="193.1"/>
-<line class="st1" x1="183.8" y1="629.4" x2="183.8" y2="96.2"/>
-<line class="st1" x1="309.3" y1="629.4" x2="309.3" y2="96.2"/>
-<line class="st1" x1="434.8" y1="629.4" x2="434.8" y2="96.2"/>
-<line class="st1" x1="560.3" y1="629.4" x2="560.3" y2="96.2"/>
-<rect x="96" y="605" class="st2" width="25.1" height="0.1"/>
-<rect x="121.1" y="604.5" class="st2" width="25.1" height="0.7"/>
-<rect x="146.2" y="603.9" class="st2" width="25.1" height="1.2"/>
-<rect x="171.3" y="599.1" class="st2" width="25.1" height="6"/>
-<rect x="196.4" y="595.6" class="st2" width="25.1" height="9.6"/>
-<rect x="221.5" y="585.4" class="st2" width="25.1" height="19.8"/>
-<rect x="246.5" y="570.6" class="st2" width="25.1" height="34.6"/>
-<rect x="271.7" y="544.3" class="st2" width="25.1" height="60.8"/>
-<rect x="296.7" y="512" class="st2" width="25.1" height="93.1"/>
-<rect x="321.8" y="455.5" class="st2" width="25.1" height="149.7"/>
-<rect x="346.9" y="372.6" class="st2" width="25.1" height="232.5"/>
-<rect x="372" y="290.1" class="st2" width="25.1" height="315.1"/>
-<rect x="397.1" y="162.2" class="st2" width="25.1" height="443"/>
-<rect x="422.2" y="120.4" class="st2" width="25.1" height="484.7"/>
-<rect x="447.3" y="143.5" class="st2" width="25.1" height="461.7"/>
-<rect x="472.4" y="332.5" class="st2" width="25.1" height="272.7"/>
-<rect x="497.5" y="494.2" class="st2" width="25.1" height="111"/>
-<rect x="522.6" y="579.1" class="st2" width="25.1" height="26.1"/>
-<rect x="547.7" y="604.5" class="st2" width="25.1" height="0.7"/>
-<text transform="matrix(1 0 0 1 38.3616 193.102)" class="st3 st4">3000</text>
-<text transform="matrix(1 0 0 1 38.6496 332.5178)" class="st3 st4">2000</text>
-<text transform="matrix(1 0 0 1 38.6493 468.8448)" class="st3 st4">1000</text>
-<text transform="matrix(1 0 0 1 59.9547 603.9392)" class="st3 st4">0</text>
-<text transform="matrix(1 0 0 1 180.2362 644.6753)" class="st3 st4">25</text>
-<text transform="matrix(1 0 0 1 302.2993 644.6749)" class="st3 st4">50</text>
-<text transform="matrix(1 0 0 1 428.1189 644.675)" class="st3 st4">75</text>
-<text transform="matrix(1 0 0 1 551.3591 644.9031)" class="st3 st4">100</text>
+<line class="st0" x1="49.8" y1="516.7" x2="637" y2="516.7"/>
+<line class="st0" x1="49.8" y1="361.9" x2="637" y2="361.9"/>
+<line class="st0" x1="49.8" y1="207.1" x2="637" y2="207.1"/>
+<line class="st0" x1="49.8" y1="52.2" x2="637" y2="52.2"/>
+<line class="st0" x1="104.6" y1="621.5" x2="104.6" y2="20.4"/>
+<line class="st0" x1="245" y1="621.5" x2="245" y2="20.4"/>
+<line class="st0" x1="385.5" y1="621.5" x2="385.5" y2="20.4"/>
+<line class="st0" x1="526" y1="621.5" x2="526" y2="20.4"/>
+<line class="st1" x1="49.8" y1="594.2" x2="637" y2="594.2"/>
+<line class="st1" x1="49.8" y1="439.3" x2="637" y2="439.3"/>
+<line class="st1" x1="49.8" y1="284.5" x2="637" y2="284.5"/>
+<line class="st1" x1="49.8" y1="129.7" x2="637" y2="129.7"/>
+<line class="st1" x1="174.8" y1="621.5" x2="174.8" y2="20.4"/>
+<line class="st1" x1="315.3" y1="621.5" x2="315.3" y2="20.4"/>
+<line class="st1" x1="455.8" y1="621.5" x2="455.8" y2="20.4"/>
+<line class="st1" x1="596.3" y1="621.5" x2="596.3" y2="20.4"/>
+<rect x="76.6" y="594" class="st2" width="28.1" height="0.1"/>
+<rect x="104.6" y="593.4" class="st2" width="28.1" height="0.8"/>
+<rect x="132.7" y="592.7" class="st2" width="28.1" height="1.4"/>
+<rect x="160.8" y="587.3" class="st2" width="28.1" height="6.8"/>
+<rect x="188.9" y="583.4" class="st2" width="28.1" height="10.8"/>
+<rect x="217" y="571.9" class="st2" width="28.1" height="22.3"/>
+<rect x="245" y="555.2" class="st2" width="28.1" height="39"/>
+<rect x="273.2" y="525.5" class="st2" width="28.1" height="68.5"/>
+<rect x="301.2" y="489.1" class="st2" width="28.1" height="104.9"/>
+<rect x="329.3" y="425.4" class="st2" width="28.1" height="168.7"/>
+<rect x="357.4" y="332" class="st2" width="28.1" height="262.1"/>
+<rect x="385.5" y="239" class="st2" width="28.1" height="355.2"/>
+<rect x="413.6" y="94.8" class="st2" width="28.1" height="499.3"/>
+<rect x="441.7" y="47.7" class="st2" width="28.1" height="546.4"/>
+<rect x="469.8" y="73.8" class="st2" width="28.1" height="520.4"/>
+<rect x="497.9" y="286.8" class="st2" width="28.1" height="307.4"/>
+<rect x="526" y="469.1" class="st2" width="28.1" height="125.1"/>
+<rect x="554.1" y="564.8" class="st2" width="28.1" height="29.4"/>
+<rect x="582.2" y="593.4" class="st2" width="28.1" height="0.8"/>
+<text transform="matrix(0.9931 0 0 1 12.0303 129.6641)" class="st3 st4">3000</text>
+<text transform="matrix(0.9931 0 0 1 12.3525 286.8125)" class="st3 st4">2000</text>
+<text transform="matrix(0.9931 0 0 1 12.3521 440.4795)" class="st3 st4">1000</text>
+<text transform="matrix(0.9931 0 0 1 36.2012 592.7568)" class="st3 st4">0</text>
+<text transform="matrix(0.9931 0 0 1 170.8438 638.6748)" class="st3 st4">25</text>
+<text transform="matrix(0.9931 0 0 1 307.4805 638.6738)" class="st3 st4">50</text>
+<text transform="matrix(0.9931 0 0 1 448.3223 638.6738)" class="st3 st4">75</text>
+<text transform="matrix(0.9931 0 0 1 586.2764 638.9307)" class="st3 st4">100</text>
 </svg>
